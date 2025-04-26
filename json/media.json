@@ -1,0 +1,1051 @@
+{
+    "version": "1.0", 
+    "updateTime": "2025-04-26",
+    "author": "kared",
+    "source": "https://linux.do/t/topic/434836",
+    "license": "MIT",
+    "description": "影视资源导航站点数据,收录优质影视站点",
+    "sites": [
+        {
+            "name": "Vidhub视频库",
+            "url": "https://vidhub.me/",
+            "home": "https://121310.xyz/",
+            "description": "海量高清视频资源库，流畅观影体验，种类丰富",
+            "category": "general"
+        },
+        {
+            "name": "奈飞工厂",
+            "url": "https://www.netflixgc.com/",
+            "description": "优质Netflix影视资源分享平台，更新及时", 
+            "category": "general"
+        },
+        {
+            "name": "低端影视",
+            "url": "https://ddys.pro/",
+            "description": "超清无广告视频站，界面简洁用户体验佳",
+            "category": "general"
+        },
+        {
+            "name": "厂长资源",
+            "url": "https://www.czzy77.com/",
+            "description": "高质量超清影视资源，更新快速无广告",
+            "category": "general"
+        },
+        {
+            "name": "人人影视",
+            "url": "https://www.renren.pro/",
+            "description": "老牌优质影视资源分享平台，字幕组翻译精准",
+            "category": "general"
+        },
+        {
+            "name": "555电影",
+            "url": "https://www.55flix.com/",
+            "description": "Netflix新剧、韩国电影免费在线观看，无水印高清",
+            "category": "general"
+        },
+        {
+            "name": "Vidhub",
+            "url": "https://vidhub.icu/",
+            "home": "https://help.vidhub.in/",
+            "description": "高清流畅在线视频观看平台，资源丰富",
+            "category": "general"
+        },
+        {
+            "name": "LIBVIO",
+            "url": "https://www.libvio.me/",
+            "home": "https://www.libvio.pro/",
+            "description": "界面精美的新版影视站，片源丰富更新快",
+            "category": "general"
+        },
+        {
+            "name": "爱壹帆",
+            "url": "https://www.iyf.tv/",
+            "description": "全面优质的在线影视平台，覆盖多类型影视",
+            "category": "general"
+        },
+        {
+            "name": "低端影视(老站)",
+            "url": "https://ddys.mov",
+            "description": "经典旧版低端影视站点，资源仍在更新",
+            "category": "general"
+        },
+        {
+            "name": "热播之家",
+            "url": "https://rebozj.pro/",
+            "description": "高清流畅的在线观影网站，热门剧集及时更新",
+            "category": "general"
+        },
+        {
+            "name": "蛋蛋赞影院",
+            "url": "https://www.dandanzan.club/",
+            "description": "免安装播放器的纯净在线影院，操作简便",
+            "category": "general"
+        },
+        {
+            "name": "大师兄影视",
+            "url": "https://dsxys.pro/",
+            "description": "永久免费的高清福利影视站，片源丰富",
+            "category": "general"
+        },
+        {
+            "name": "楓林網",
+            "url": "https://imaple8.co/",
+            "description": "优质港剧台剧资源，更新及时画质清晰",
+            "category": "general"
+        },
+        {
+            "name": "Gimy 剧迷",
+            "url": "https://gimy.im/",
+            "description": "华语影视高清在线观看首选，港剧资源丰富",
+            "category": "general"
+        },
+        {
+            "name": "94i影城",
+            "url": "https://94itv.app/",
+            "description": "免费高清电影、戏剧、综艺线上观看平台",
+            "category": "general"
+        },
+        {
+            "name": "HDMoli",
+            "url": "https://www.hdmoli.pro/",
+            "description": "专注高品质在线影视资源，1080P起步",
+            "category": "general"
+        },
+        {
+            "name": "电影先生",
+            "url": "https://dyxs39.com/",
+            "description": "聚合全网优质高清影视资源，更新速度快",
+            "category": "general"
+        },
+        {
+            "name": "4k影视",
+            "url": "https://www.4kvm.net/",
+            "description": "专注4K超高清在线观影体验，画质出众",
+            "category": "general"
+        },
+        {
+            "name": "美柏影视",
+            "url": "https://www.mp4br.com/",
+            "description": "永久免费提供最新最快的影视内容，无需注册",
+            "category": "general"
+        },
+        {
+            "name": "素白白影视",
+            "url": "https://www.subaibaiys.com/",
+            "description": "2024最新影视与经典港片齐全，分类清晰",
+            "category": "general"
+        },
+        {
+            "name": "OK电影院",
+            "url": "https://www.okdyy.com/",
+            "description": "汇聚神马影院、韩国电影等最新免费电影资源",
+            "category": "general"
+        },
+        {
+            "name": "奈飞中文影视",
+            "url": "https://netfly.fun/",
+            "description": "Netflix优质影视资源中文字幕版，同步更新",
+            "category": "general"
+        },
+        {
+            "name": "Freeok",
+            "url": "https://freeok.lol/",
+            "description": "完全免费的高清影视站，资源丰富界面简洁",
+            "category": "general"
+        },
+        {
+            "name": "小宝影视",
+            "url": "https://xiaoxintv.cc/",
+            "description": "资源全面但有轻微水印，观影体验尚可",
+            "category": "general"
+        },
+        {
+            "name": "iKanBot",
+            "url": "https://v.ikanbot.com/",
+            "description": "智能影视索引平台，快速定位热门影视",
+            "category": "general"
+        },
+        {
+            "name": "简单TV",
+            "url": "https://jiandantv.com/",
+            "description": "界面简洁支持搜索功能，用户友好度高",
+            "category": "general"
+        },
+        {
+            "name": "无名小站",
+            "url": "https://www.gying.org/",
+            "description": "需注册后使用，但资源质量较高值得等待",
+            "category": "general"
+        },
+        {
+            "name": "爱看影视",
+            "url": "https://www.akys.info/",
+            "description": "综合性在线观影平台，类型丰富更新及时",
+            "category": "general"
+        },
+        {
+            "name": "美益达影视",
+            "url": "https://myd04.com/",
+            "description": "稳定运行的影视资源站，老片新片兼备",
+            "category": "general"
+        },
+        {
+            "name": "金牌影院",
+            "url": "https://www.6umkq9b.com/",
+            "description": "汇聚多类型综合影视资源，更新相对及时",
+            "category": "general"
+        },
+        {
+            "name": "剧集TV",
+            "url": "https://www.jukankan.tv/",
+            "description": "专注电视剧内容的专区网站，连载剧更新快",
+            "category": "general"
+        },
+        {
+            "name": "黑夜影视",
+            "url": "https://darkvod.com/",
+            "description": "深色风格UI的在线观影平台，护眼不伤视",
+            "category": "general"
+        },
+        {
+            "name": "66影视",
+            "url": "https://www.66e.cc/",
+            "description": "综合影视资源站，新老资源齐全",
+            "category": "general"
+        },
+        {
+            "name": "爱迪影视",
+            "url": "https://adys.tv/",
+            "description": "专注4K韩剧、美剧、日剧在线观看，画质清晰",
+            "category": "general"
+        },
+        {
+            "name": "布谷TV",
+            "url": "https://www.bugutv.org/",
+            "description": "品类齐全的影视资源站，界面友好",
+            "category": "general"
+        },
+        {
+            "name": "乐视视频",
+            "url": "https://le.com/",
+            "description": "官方正版高清影视门户，部分内容需付费",
+            "category": "general"
+        },
+        {
+            "name": "泡泡视频",
+            "url": "https://paopaoshipin.com/",
+            "description": "专注美剧、日剧、韩剧在线观看，更新及时",
+            "category": "general"
+        },
+        {
+            "name": "雨鹤影视",
+            "url": "https://www.yuheqz.com/",
+            "description": "精选影视资源的在线观影平台，分类明确",
+            "category": "general"
+        },
+        {
+            "name": "弹幕TV",
+            "url": "https://www.danmutv.com/",
+            "description": "支持实时互动弹幕的观影平台，社区活跃",
+            "category": "general"
+        },
+        {
+            "name": "注视影视",
+            "url": "https://yt.00k.top/",
+            "description": "收录热门剧和冷门电影，免费无限制观看",
+            "category": "general"
+        },
+        {
+            "name": "全民影视",
+            "url": "https://www.qmintv.com",
+            "description": "面向大众的综合影视资源站，更新速度快",
+            "category": "general"
+        },
+        {
+            "name": "APP影院",
+            "url": "https://app.movie",
+            "description": "针对移动端优化的影视站点，手机观看体验佳",
+            "category": "general"
+        },
+        {
+            "name": "旋风视频",
+            "url": "https://miao101.com",
+            "description": "加载迅速的视频资源站，播放稳定流畅",
+            "category": "general"
+        },
+        {
+            "name": "乌龟影院",
+            "url": "https://www.wuguiyy.com",
+            "description": "虽加载稍慢但稳定可靠的在线影视平台",
+            "category": "general"
+        },
+        {
+            "name": "大米星球",
+            "url": "https://dmys1.com",
+            "description": "内容丰富的影视资源平台，分类详细",
+            "category": "general"
+        },
+        {
+            "name": "一一影视",
+            "url": "https://www.yiyi2.com",
+            "description": "简约风格的影视资源站，操作便捷",
+            "category": "general"
+        },
+        {
+            "name": "扛把子影院",
+            "url": "https://www.ququmc.com",
+            "description": "更新迅速的影视资源站，紧跟热点",
+            "category": "general"
+        },
+        {
+            "name": "大白影视",
+            "url": "https://dabai66.com",
+            "description": "白色简约风格的影视资源站，界面清爽",
+            "category": "general"
+        },
+        {
+            "name": "酷绘视频",
+            "url": "https://www.kuhuiv.com",
+            "description": "特色鲜明的在线视频站，有独家内容",
+            "category": "general"
+        },
+        {
+            "name": "来看点播",
+            "url": "https://www.lkvod.cc",
+            "description": "按需点播的资源站，满足个性化观影需求",
+            "category": "general"
+        },
+        {
+            "name": "喵喵电影",
+            "url": "https://www.2345ka.com",
+            "description": "萌系风格的在线影视站，界面可爱友好",
+            "category": "general"
+        },
+        {
+            "name": "555电影",
+            "url": "https://www.5ying.fun",
+            "description": "全新改版的影视站，资源更丰富画质更清晰",
+            "category": "general"
+        },
+        {
+            "name": "16影视网",
+            "url": "https://www.169069.com",
+            "description": "主打剧情片的影视资源站，类型齐全",
+            "category": "general"
+        },
+        {
+            "name": "追剧达人",
+            "url": "https://zhuijudr.com",
+            "description": "专注热门剧集追踪，更新及时通知快",
+            "category": "general"
+        },
+        {
+            "name": "星空影视",
+            "url": "https://www.simeat.com",
+            "description": "界面精美的影视资源站，用户体验佳",
+            "category": "general"
+        },
+        {
+            "name": "北川影视",
+            "url": "https://www.bczhuiju.com",
+            "description": "专注国产剧的影视资源站，更新及时",
+            "category": "general"
+        },
+        {
+            "name": "电影淘淘",
+            "url": "https://www.dianyingtaotao.com",
+            "description": "专注经典影视作品挖掘，老片资源丰富",
+            "category": "general"
+        },
+        {
+            "name": "新视觉影院",
+            "url": "https://www.6080dy4.com",
+            "description": "提供多种清晰度的高清影视资源，可自选",
+            "category": "general"
+        },
+        {
+            "name": "看看屋",
+            "url": "https://www.kkw361.com",
+            "description": "全新改版的影视聚合站，界面更友好",
+            "category": "general"
+        },
+        {
+            "name": "剧迷TV",
+            "url": "https://jumi.tv",
+            "description": "针对电视剧爱好者的资源站，连载更新快",
+            "category": "general"
+        },
+        {
+            "name": "速影TV",
+            "url": "https://suyingtv.com",
+            "description": "以更新速度见长的影视站，新剧集及时跟进",
+            "category": "general"
+        },
+        {
+            "name": "神马影院",
+            "url": "https://www.shenma4480.com",
+            "description": "自适应多种分辨率，手机电脑均可流畅观看",
+            "category": "general"
+        },
+        {
+            "name": "饭团影视",
+            "url": "https://www.fantuanhd.com",
+            "description": "主打高清画质的影视站，1080P资源为主",
+            "category": "general"
+        },
+        {
+            "name": "哔嘀",
+            "url": "https://bde4.icu",
+            "description": "专注海外剧集的专线网站，欧美日韩剧集齐全",
+            "category": "general"
+        },
+        {
+            "name": "七喜",
+            "url": "https://www.7xi.tv",
+            "description": "轻量级影视资源站，加载速度快",
+            "category": "general"
+        },
+        {
+            "name": "雪糕TV",
+            "url": "https://www.xgitv.com",
+            "description": "清爽界面的影视资源站，夏日观影首选",
+            "category": "general"
+        },
+        {
+            "name": "40影视",
+            "url": "https://40tl.com",
+            "description": "极简风格的影视站，无多余元素干扰",
+            "category": "general"
+        },
+        {
+            "name": "小熊影视",
+            "url": "https://www.xxys520.com",
+            "description": "温馨可爱风格的影视资源站，适合家庭观影",
+            "category": "general"
+        },
+        {
+            "name": "楚门影视",
+            "url": "https://www.chumenys.com",
+            "description": "独立思考型影视资源站，收录经典冷门片",
+            "category": "general"
+        },
+        {
+            "name": "麻花视频",
+            "url": "https://www.mhyyy.com",
+            "description": "轻松有趣的影视资源站，喜剧片收录丰富",
+            "category": "general"
+        },
+        {
+            "name": "思乐影视",
+            "url": "https://www.4ltv.com",
+            "description": "注重用户体验的影视资源站，分类合理",
+            "category": "general"
+        },
+        {
+            "name": "飞极速在线",
+            "url": "https://www.fjisu2.com",
+            "description": "主打高速资源加载，看片无需等待缓冲",
+            "category": "general"
+        },
+        {
+            "name": "小猫咪影视",
+            "url": "https://xmmi.xyz",
+            "description": "萌系风格的影视资源站，界面可爱",
+            "category": "general"
+        },
+        {
+            "name": "歪片星球",
+            "url": "https://waipian8.com",
+            "description": "专注收集冷门小众影视资源，片源独特",
+            "category": "general"
+        },
+        {
+            "name": "鲨鱼TV",
+            "url": "https://www.sharktv.cn",
+            "description": "快速稳定的影视资源站，观影体验流畅",
+            "category": "general"
+        },
+        {
+            "name": "天空影视",
+            "url": "https://tkznp.com",
+            "description": "开阔视野的影视资源站，国内外影视兼收",
+            "category": "general"
+        },
+        {
+            "name": "铁杆电影",
+            "url": "https://www.tgdy.net",
+            "description": "致力于收集经典电影的专业影库，老片爱好者首选",
+            "category": "general"
+        },
+        {
+            "name": "人人影视",
+            "url": "https://kuaizi.cc",
+            "description": "全新改版的人人影视资源站，字幕组作品质量高",
+            "category": "general"
+        },
+        {
+            "name": "万博影院",
+            "url": "https://www.wanbotv.com",
+            "description": "全面覆盖各类型的影视资源站，选择丰富",
+            "category": "general"
+        },
+        {
+            "name": "注视影视",
+            "url": "https://gaze.run",
+            "description": "全新改版的注视影视站，用户体验大幅提升",
+            "category": "general"
+        },
+        {
+            "name": "Go影院",
+            "url": "https://www.aoob.top",
+            "description": "轻量快速的影视资源站，访问流畅",
+            "category": "general"
+        },
+        {
+            "name": "耐看点播",
+            "url": "https://www.nkvod.com",
+            "description": "精选值得多次观看的经典影视在线点播平台",
+            "category": "general"
+        },
+        {
+            "name": "干饭视频",
+            "url": "https://gfysys2.com",
+            "description": "接地气名称的影视资源站，内容丰富实用",
+            "category": "general"
+        },
+        {
+            "name": "稀饭影视",
+            "url": "https://www.xifanys.com",
+            "description": "清新风格的影视资源站，观影体验舒适",
+            "category": "general"
+        },
+        {
+            "name": "暖光影视",
+            "url": "https://www.bl210.top",
+            "description": "柔和暖色调UI的影视资源站，减轻视觉疲劳",
+            "category": "general"
+        },
+        {
+            "name": "星辰影院",
+            "url": "https://www.skyy8.com",
+            "description": "夜间模式友好的影视资源站，夜猫子最爱",
+            "category": "general"
+        },
+        {
+            "name": "胖虎影视",
+            "url": "https://www.panghuys.com",
+            "description": "憨厚可靠的影视资源站，片源稳定更新准时",
+            "category": "general"
+        },
+        {
+            "name": "可爱小猫咪",
+            "url": "https://xmaomi.top",
+            "description": "治愈系风格的影视资源站，界面温馨",
+            "category": "general"
+        },
+        {
+            "name": "影视TV",
+            "url": "https://www.yingshi.tv",
+            "description": "整合多平台资源的综合影视站，一站式解决",
+            "category": "general"
+        },
+        {
+            "name": "电影驿站",
+            "url": "https://dy.sy",
+            "description": "影视资源快速传输站，下载速度快",
+            "category": "general"
+        },
+        {
+            "name": "哔嘀影视",
+            "url": "https://www.bdys10.com",
+            "description": "专注海外精品剧集的专线网站，字幕质量高",
+            "category": "general"
+        },
+        {
+            "name": "PianHD",
+            "url": "https://www.pianhd.co",
+            "description": "主打高清的海外影视资源站，清晰度保证",
+            "category": "general"
+        },
+        {
+            "name": "TMTV",
+            "url": "https://chongtmtv.com",
+            "description": "海外华人专享的影视专线，服务稳定",
+            "category": "general"
+        },
+        {
+            "name": "COKEMV影视",
+            "url": "https://cokemv.net",
+            "description": "欧美电影资源专库，类型齐全更新快",
+            "category": "general"
+        },
+        {
+            "name": "可可影视",
+            "url": "https://www.keke12.com",
+            "description": "支持多终端同步的影视资源站，体验一致",
+            "category": "general"
+        },
+        {
+            "name": "WARHUT影视",
+            "url": "https://v.warhut.cn/",
+            "description": "军事风格的影视资源站，战争片收录齐全",
+            "category": "general"
+        },
+        {
+            "name": "AUETE影视",
+            "url": "https://auete.com",
+            "description": "专注欧美剧的影视专线，更新及时字幕精准",
+            "category": "general"
+        },
+        {
+            "name": "赘婿影视",
+            "url": "https://zhuixu.cc",
+            "description": "聚合网络文学改编剧集，原著粉丝必备",
+            "category": "general"
+        },
+        {
+            "name": "电影先生",
+            "url": "https://dianyi.ng",
+            "description": "提供极致高清在线观影体验，画质细节出众",
+            "category": "general"
+        },
+        {
+            "name": "追剧兔",
+            "url": "https://www.zjtu.tv",
+            "description": "专注热门连载剧集追踪，更新提醒及时",
+            "category": "general"
+        },
+        {
+            "name": "羽路均沾",
+            "url": "https://ylu.cc",
+            "description": "小众冷门影视推荐站，发掘被忽视的佳作",
+            "category": "general"
+        },
+        {
+            "name": "XMXONE",
+            "url": "https://www.xmxone.cn",
+            "description": "兼具影视资源与行业资讯的综合站点",
+            "category": "general"
+        },
+        {
+            "name": "看个蛋",
+            "url": "https://www.kangedan.com",
+            "description": "支持互动弹幕的观影平台，社区氛围好",
+            "category": "general"
+        },
+        {
+            "name": "如意视频",
+            "url": "https://rysp.tv",
+            "description": "访问受限，需特定网络环境访问",
+            "category": "general"
+        },
+        {
+            "name": "毛驴影视",
+            "url": "https://www.maolvys.com",
+            "description": "访问不稳定，间歇性可用",
+            "category": "general"
+        },
+        {
+            "name": "努努影院",
+            "url": "https://nnyy.in/",
+            "description": "加载速度快但有水印和广告，影响体验",
+            "category": "special"
+        },
+        {
+            "name": "游子视频",
+            "url": "https://www.youzisp.tv",
+            "description": "面向海外华人的影视平台，国内访问可能受限",
+            "category": "general"
+        },
+        {
+            "name": "蔡徐坤TV",
+            "url": "https://www.ikun.tv/",
+            "description": "爱坤TV影视站，需科学上网访问",
+            "category": "general"
+        },
+        {
+            "name": "小黑子影视",
+            "url": "www.xhzys.top",
+            "description": "二创风格的影视资源站，可能需特定方式访问",
+            "category": "general"
+        },
+        {
+            "name": "免费五五短剧",
+            "url": "https://www.duanju55.com/",
+            "description": "汇聚最新免费短剧视频，垂直化内容定位",
+            "category": "shortDrama"
+        },
+        {
+            "name": "短剧网",
+            "url": "https://www.duanju001.com/",
+            "description": "专注爽文短剧在线观看，更新速度快",
+            "category": "shortDrama"
+        },
+        {
+            "name": "美剧迷",
+            "url": "https://www.meijumi.net",
+            "description": "提供全季美剧整合资源，一站式追剧",
+            "category": "usa"
+        },
+        {
+            "name": "美剧粉",
+            "url": "http://www.mjf2020.com",
+            "description": "专注冷门美剧资源收集，小众剧集齐全",
+            "category": "usa"
+        },
+        {
+            "name": "美剧巴士",
+            "url": "https://www.yiyimeiju.com",
+            "description": "保证每日美剧更新，最新剧集不落下",
+            "category": "usa"
+        },
+        {
+            "name": "美剧天堂",
+            "url": "https://www.meijutt.tw",
+            "description": "提供中英双语字幕资源，学习娱乐两不误",
+            "category": "usa"
+        },
+        {
+            "name": "美剧侠",
+            "url": "https://meijuxia.vip",
+            "description": "部分剧集支持VIP抢先看，提前追新剧",
+            "category": "usa"
+        },
+        {
+            "name": "爱美剧TV1",
+            "url": "https://www.imjtv.com",
+            "description": "纯净无广告版美剧站，观影体验佳",
+            "category": "usa"
+        },
+        {
+            "name": "丫丫美剧",
+            "url": "https://www.yayameiju.com",
+            "description": "以社区讨论驱动的美剧平台，互动性强",
+            "category": "usa"
+        },
+        {
+            "name": "91美剧网",
+            "url": "https://mjw21.com/",
+            "description": "提供高清无广告的美剧天堂，观影体验出色",
+            "category": "usa"
+        },
+        {
+            "name": "阿哥美剧",
+            "url": "https://agmov.com",
+            "description": "专注美剧内容的专播平台，资源精选",
+            "category": "usa"
+        },
+        {
+            "name": "外剧网",
+            "url": "https://www.waiju.cc",
+            "description": "涵盖美剧等多国海外剧集的专线网站",
+            "category": "usa"
+        },
+        {
+            "name": "埋堆堆",
+            "url": "https://www.mddcloud.com.cn",
+            "description": "TVB官方授权资源平台，部分内容需VIP",
+            "category": "hk"
+        },
+        {
+            "name": "粤爱看",
+            "url": "https://www.gjyak.com",
+            "description": "专注提供粤语字幕版本，地道港味",
+            "category": "hk"
+        },
+        {
+            "name": "港剧天堂",
+            "url": "https://www.gjtt.net",
+            "description": "经典港剧资源存档库，老剧迷必备",
+            "category": "hk"
+        },
+        {
+            "name": "港剧屋",
+            "url": "https://www.gangju5.cc",
+            "description": "提供粤语原声资源，保留原汁原味",
+            "category": "hk"
+        },
+        {
+            "name": "粤之家",
+            "url": "https://www.gjw4.com",
+            "description": "最新TVB剧集同步更新，不落后于香港",
+            "category": "hk"
+        },
+        {
+            "name": "TVB云播",
+            "url": "https://www.tvyb03.com",
+            "description": "专注香港TVB电视剧的专播平台，覆盖全",
+            "category": "hk"
+        },
+        {
+            "name": "东京不够热",
+            "url": "https://www.tnhzmz.com",
+            "description": "提供日剧生肉资源的专业站点，适合日语学习",
+            "category": "asia"
+        },
+        {
+            "name": "心动日剧",
+            "url": "http://www.doki8.net",
+            "description": "提供中日双语字幕，学习日语的好帮手",
+            "category": "asia"
+        },
+        {
+            "name": "韩剧网",
+            "url": "https://www.hanjuwang.net",
+            "description": "需科学上网访问的优质韩剧资源站",
+            "category": "asia"
+        },
+        {
+            "name": "韩迷乐园",
+            "url": "https://www.hanmi.fun",
+            "description": "提供中文字幕同步更新的韩剧平台",
+            "category": "asia"
+        },
+        {
+            "name": "九九韩剧",
+            "url": "http://www.jjhj.cc",
+            "description": "收录经典韩剧合集，老剧资源齐全",
+            "category": "asia"
+        },
+        {
+            "name": "看韩剧",
+            "url": "https://www.kan.cc",
+            "description": "支持多种分辨率自适应的韩剧专站",
+            "category": "asia"
+        },
+        {
+            "name": "韩剧看看",
+            "url": "https://www.hanjukankan.com/",
+            "description": "专业韩剧资源分享站，更新及时字幕精准",
+            "category": "asia"
+        },
+        {
+            "name": "NT动漫",
+            "url": "https://ntdm9.com/",
+            "description": "提供新番在线更新的专业动漫平台",
+            "category": "anime"
+        },
+        {
+            "name": "趣动漫",
+            "url": "https://www.qdm66.com/",
+            "description": "有趣好玩的综合动漫资源站，种类齐全",
+            "category": "anime"
+        },
+        {
+            "name": "莫扎兔",
+            "url": "https://www.mozhatu.com",
+            "description": "动漫与影视内容兼具的综合聚合平台",
+            "category": "anime"
+        },
+        {
+            "name": "茶杯狐",
+            "url": "https://cupfox.app",
+            "description": "强大的多源影视聚合搜索引擎，一搜全网",
+            "category": "tool"
+        },
+        {
+            "name": "搜片",
+            "url": "https://soupian.one",
+            "description": "专业全网影片搜索引擎，精准定位资源",
+            "category": "tool"
+        },
+        {
+            "name": "茶杯虎",
+            "url": "https://725998.com",
+            "description": "类似茶杯狐的影视资源聚合站，备选方案",
+            "category": "tool"
+        },
+        {
+            "name": "豌豆Pro",
+            "url": "https://wandou.la/",
+            "description": "专业影视聚合搜索站点，资源覆盖广",
+            "category": "tool"
+        },
+        {
+            "name": "魔法解析",
+            "url": "https://wantwatch.me/",
+            "description": "强大的影视解析工具，支持多平台",
+            "category": "tool"
+        },
+        {
+            "name": "看片狂人",
+            "url": "https://kuangren.us/",
+            "description": "影视资源聚合站，追新必备工具",
+            "category": "tool"
+        },
+        {
+            "name": "影搜",
+            "url": "https://影搜.com",
+            "description": "智能影视磁力搜索引擎，定位精准",
+            "category": "tool"
+        },
+        {
+            "name": "影猫",
+            "url": "https://www.mvcat.com",
+            "description": "电影分类导航站，按题材筛选电影",
+            "category": "tool"
+        },
+        {
+            "name": "7080影视搜",
+            "url": "https://7080.wang",
+            "description": "专注经典老片的影视资源聚合引擎",
+            "category": "tool"
+        },
+        {
+            "name": "豌豆PRO",
+            "url": "https://wdoo.net",
+            "description": "聚合全网资源的搜索引擎，覆盖面广",
+            "category": "tool"
+        },
+        {
+            "name": "小猫咪",
+            "url": "https://xmaomi.net",
+            "description": "智能影视聚合搜索站，操作简单结果精准",
+            "category": "tool"
+        },
+        {
+            "name": "电影狗",
+            "url": "https://www.dianyinggou.com",
+            "description": "专业影视搜索引擎，一键找片不费力",
+            "category": "tool"
+        },
+        {
+            "name": "爱看机器人",
+            "url": "https://www.ikanbot.com",
+            "description": "AI驱动的智能影视搜索平台，推荐精准",
+            "category": "tool"
+        },
+        {
+            "name": "播搜",
+            "url": "https://www.usou.one",
+            "description": "资源丰富的影视资源搜索引擎，更新快速",
+            "category": "tool"
+        },
+        {
+            "name": "萌搜",
+            "url": "https://mengso.com",
+            "description": "可爱风格的影视资源聚合搜索引擎",
+            "category": "tool"
+        },
+        {
+            "name": "影视森林",
+            "url": "https://www.549.tv",
+            "description": "全网影视资源导航站，分类清晰",
+            "category": "tool"
+        },
+        {
+            "name": "影视工场",
+            "url": "https://www.ysgc.tv",
+            "description": "一站式影视资源搜索服务，操作简便",
+            "category": "tool"
+        },
+        {
+            "name": "电影先生",
+            "url": "https://www.dianyingim.com",
+            "description": "定位精准的影视搜索平台，支持多条件筛选",
+            "category": "tool"
+        },
+        {
+            "name": "ZY Player",
+            "url": "https://zypll.me",
+            "description": "开源全网影视资源播放器，多端支持",
+            "category": "tool"
+        },
+        {
+            "name": "NoName",
+            "url": "https://nnrs.me",
+            "description": "无名资源聚合搜索，低调高效",
+            "category": "tool"
+        },
+        {
+            "name": "皮皮虾资源",
+            "url": "https://ppx.best",
+            "description": "专注小众影视的搜索平台，冷门资源丰富",
+            "category": "tool"
+        },
+        {
+            "name": "找剧集",
+            "url": "https://www.zhaojuji.com",
+            "description": "专注电视剧资源的搜索引擎，连载更新及时",
+            "category": "tool"
+        },
+        {
+            "name": "云搜",
+            "url": "https://yunsou.xyz",
+            "description": "轻量级影视资源搜索工具，速度快",
+            "category": "tool"
+        },
+        {
+            "name": "资源猫",
+            "url": "https://www.zymao.net",
+            "description": "全网影视资源搜索神器，结果全面",
+            "category": "tool"
+        },
+        {
+            "name": "片库",
+            "url": "https://www.pkvod.com",
+            "description": "高质量影视资源整合平台，内容精选",
+            "category": "tool"
+        },
+        {
+            "name": "木白影视",
+            "url": "https://m.mubai.link",
+            "description": "新兴影视在线观看平台，资源更新及时",
+            "category": "general"
+        },
+        {
+            "name": "4KHDR世界",
+            "url": "https://4khdr.cn",
+            "description": "专业4K电影下载站，提供HDR杜比视界资源",
+            "category": "general"
+        },
+        {
+            "name": "韩饭网",
+            "url": "https://hanfan.cc",
+            "description": "韩国娱乐新闻及影视资源分享平台",
+            "category": "asia"
+        },
+        {
+            "name": "聚合影视",
+            "url": "https://juheyingshi.com",
+            "description": "全网影视聚合站，免费观看各类节目",
+            "category": "general"
+        },
+        {
+            "name": "音范丝",
+            "url": "https://yinfans.me",
+            "description": "精选4K蓝光原盘下载，顶级收藏资源",
+            "category": "general"
+        },
+        {
+            "name": "音范丝发布页",
+            "url": "https://yfs365.com", 
+            "description": "音范丝影视资源发布导航页",
+            "category": "general"
+        },
+        {
+            "name": "新剧坊",
+            "url": "https://xinjuc.com",
+            "description": "影视网盘资源分享小站，提供云盘资源",
+            "category": "general"
+        },
+        {
+            "name": "小纸条",
+            "url": "https://ali.gitcafe.ink",
+            "description": "开放纯粹的资源网站，互助分享平台",
+            "category": "tool"
+        },
+        {
+            "name": "66影视备用",
+            "url": "https://www.66s6.net",
+            "description": "66影视备用域名站点",
+            "category": "general"
+        },
+        {
+            "name": "布谷TV",
+            "url": "https://bugutv.vip",
+            "description": "4K高清影视下载基地，提供无水印资源",
+            "category": "general"
+        }
+    ]
+}
